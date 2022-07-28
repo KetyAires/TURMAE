@@ -1,9 +1,13 @@
 body {
-     background: #cccccc
+     
 }
 
 #depilacao {
        width: 100%;
+}
+
+.principal{
+     background: #cccccc
 }
 
 h1 {
